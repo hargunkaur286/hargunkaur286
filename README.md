@@ -17,11 +17,11 @@
 - ⚡ Fun fact **I like painting**
 
    <a href= "https://meshery.layer5.io/user/2d7df104-da82-4618-a8be-7bf9e03dc86c?tab=badges">
-    <img width="224px" height="260px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
+    <img width="224px" height="280px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
   </a >
 
-   <a href= "https://meshery.layer5.io/user/2d7df104-da82-4618-a8be-7bf9e03dc86c?tab=badges">
-    <img width="224px" height="260px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
+    <a href= "https://meshery.layer5.io/user/2d7df104-da82-4618-a8be-7bf9e03dc86c?tab=badges">
+    <img width="224px" height="280px" src = "https://badges.layer5.io/assets/badges/community/community.png" alt = "Community" />
   </a >
 
 <h3 align="left">Connect with me:</h3>
