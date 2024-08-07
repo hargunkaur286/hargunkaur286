@@ -16,6 +16,14 @@
 
 - ⚡ Fun fact **I like painting**
 
+   <a href= "https://meshery.layer5.io/user/2d7df104-da82-4618-a8be-7bf9e03dc86c?tab=badges">
+    <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
+  </a >
+
+   <a href= "https://meshery.layer5.io/user/2d7df104-da82-4618-a8be-7bf9e03dc86c?tab=badges">
+    <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
+  </a >
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hargunkaur286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hargunkaur286" height="30" width="40" /></a>
