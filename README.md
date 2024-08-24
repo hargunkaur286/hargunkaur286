@@ -25,11 +25,11 @@
   </a >
 
    <a href= "https://meshery.layer5.io/user/2d7df104-da82-4618-a8be-7bf9e03dc86c?tab=badges&badge=first-share" >
-    <img width="200px" height="224px" src = "https://badges.layer5.io/assets/badges/first-share/first-share.png" alt = "Sharing is Caring" />
+    <img width="200px" height="280px" src = "https://badges.layer5.io/assets/badges/first-share/first-share.png" alt = "Sharing is Caring" />
   </a >
 
    <a href= "https://meshery.layer5.io/user/2d7df104-da82-4618-a8be-7bf9e03dc86c?tab=badges&badge=continuous-contributor" >
-    <img width="200px" height="224px" src = "https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" alt = "Continuous Contributor" />
+    <img width="200px" height="280px" src = "https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" alt = "Continuous Contributor" />
   </a >
 
 <h3 align="left">Connect with me:</h3>
