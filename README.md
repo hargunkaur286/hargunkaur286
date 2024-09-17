@@ -32,6 +32,9 @@
     <img width="200px" height="280px" src = "https://badges.layer5.io/assets/badges/continuous-contributor/continuous-contributor.png" alt = "Continuous Contributor" />
   </a >
 
+  [![An image of @hargunkaur286's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hargunkaur286)](https://holopin.io/@hargunkaur286)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hargunkaur286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hargunkaur286" height="30" width="40" /></a>
